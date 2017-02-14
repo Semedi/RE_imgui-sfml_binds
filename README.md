@@ -5,3 +5,10 @@ Libs used thanks to:
 
 * imgui-sfml https://github.com/eliasdaler/imgui-sfml
 * imgui https://github.com/ocornut/imgui
+
+
+location: roguengine/include/modules
+
+dependencies:
+
+* opengl32
